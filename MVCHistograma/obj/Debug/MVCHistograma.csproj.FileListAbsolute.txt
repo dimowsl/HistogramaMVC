@@ -1,0 +1,8 @@
+C:\Users\nqkoi\OneDrive\Desktop\proekti\MVCHistograma\obj\Debug\MVCHistograma.csproj.AssemblyReference.cache
+C:\Users\nqkoi\OneDrive\Desktop\proekti\MVCHistograma\obj\Debug\MVCHistograma.csproj.SuggestedBindingRedirects.cache
+C:\Users\nqkoi\OneDrive\Desktop\proekti\MVCHistograma\obj\Debug\MVCHistograma.csproj.CoreCompileInputs.cache
+C:\Users\nqkoi\OneDrive\Desktop\proekti\MVCHistograma\bin\Debug\MVCHistograma.exe.config
+C:\Users\nqkoi\OneDrive\Desktop\proekti\MVCHistograma\bin\Debug\MVCHistograma.exe
+C:\Users\nqkoi\OneDrive\Desktop\proekti\MVCHistograma\bin\Debug\MVCHistograma.pdb
+C:\Users\nqkoi\OneDrive\Desktop\proekti\MVCHistograma\obj\Debug\MVCHistograma.exe
+C:\Users\nqkoi\OneDrive\Desktop\proekti\MVCHistograma\obj\Debug\MVCHistograma.pdb
